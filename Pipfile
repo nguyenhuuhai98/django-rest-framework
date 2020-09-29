@@ -8,7 +8,10 @@ verify_ssl = true
 [packages]
 django = "*"
 djangorestframework = "*"
-django-environ = "*"
+djangorestframework-simplejwt = "*"
+django-extensions = "*"
+rest-framework-simplejwt = "*"
+restframework-simplejwt = "*"
 
 [requires]
 python_version = "3.5"
